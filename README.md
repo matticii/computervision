@@ -1,1 +1,2 @@
+## About
 This project aims to develop a comprehensive computer vision/machine learning algorithm for the analysis of football matches. The developed algorithm detects and tracks players, referees, and footballs in video footage using YOLO, a leading AI object detection model. It also uses Kmeans for pixel segmentation, optical flow for motion tracking, and perspective transformation to analyze player movements in football videos.
